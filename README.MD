@@ -1,11 +1,12 @@
-Tecnologias utilizadas:
+# Tecnologias utilizadas:
 
 - ChatGPT
 - Bing: criador de imagens
 - Google apresentações
 
 
-Prompts utilizados:
+# Prompts utilizados:
 
-ChatGPT:
-Titulo:
+## ChatGPT:
+
+### Titulo:
