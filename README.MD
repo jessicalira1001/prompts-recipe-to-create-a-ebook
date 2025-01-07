@@ -20,3 +20,7 @@ Explique sempre de uma maneira simples
 Deixe o texto enxuto
 Sempre traga exemplos em contextos reais
 Sempre deixe um titulo sugestivo por tópico
+
+
+## Bing:
+### Titulo: A master of wizards programmer, pixel art style
