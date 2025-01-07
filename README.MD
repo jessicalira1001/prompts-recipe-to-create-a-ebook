@@ -24,3 +24,6 @@ Sempre deixe um titulo sugestivo por tópico
 
 ## Bing:
 ### Titulo: A master of wizards programmer, pixel art style
+
+# Link do E-book:
+- https://github.com/jessicalira1001/prompts-recipe-to-create-a-ebook/blob/main/E-BOOK%20_DIO.pdf
